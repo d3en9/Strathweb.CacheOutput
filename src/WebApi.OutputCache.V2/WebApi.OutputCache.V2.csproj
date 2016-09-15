@@ -57,6 +57,7 @@
   <ItemGroup>
     <Compile Include="AutoInvalidateCacheOutputAttribute.cs" />
     <Compile Include="BaseCacheAttribute.cs" />
+    <Compile Include="CacheOutputAllMethodsAttribute.cs" />
     <Compile Include="CacheOutputConfiguration.cs" />
     <Compile Include="DefaultCacheKeyGenerator.cs" />
     <Compile Include="HttpConfigurationExtensions.cs" />
